@@ -1,0 +1,7 @@
+campaign_id,campaign_name,channel,ad_type,category,target_audience
+CMP_G_01,Google_Search_EthnicWear,Google Ads,Search,Ethnic Wear,High Intent Search
+CMP_G_02,Google_PMax_Menswear,Google Ads,Performance Max,Menswear,Broad Prospecting
+CMP_G_03,Google_Search_BrandName,Google Ads,Search,Brand,High Intent Search
+CMP_M_01,Meta_Reels_FestiveCollec,Meta Ads,Reels Video,Ethnic Wear,Broad Prospecting
+CMP_M_02,Meta_Carousel_WesternWear,Meta Ads,Carousel,Western Wear,Broad Prospecting
+CMP_M_03,Meta_Retargeting_AbandonedCart,Meta Ads,Static Image,All,Retargeting
